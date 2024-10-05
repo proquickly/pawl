@@ -1,3 +1,4 @@
+# pip install chromadb
 import chromadb
 import pprint
 from chromadb.config import Settings
